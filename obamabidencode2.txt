@@ -36225,7 +36225,7 @@ const ads = [
 		if(e.noCounter == 28){
 		    if (e.player_answers.includes(9178) || e.player_answers.includes(9179) || e.player_answers.includes(9180) || e.player_answers.includes(9181)){
 			    let index = menuItemsA.findIndex(item => item.id === 'BACHMANN_A');
-                if (index !== -1) {
+                if (index == -1) {
                     menuItemsA.unshift(BachmannCand);
                 }
 			}
