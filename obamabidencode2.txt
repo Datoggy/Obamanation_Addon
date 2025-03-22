@@ -36577,11 +36577,13 @@ const WinsMap = {
 	"7": `Obama-Biden has <i><span style="color: #15A600;">a tons</i></span> of <b>wins</b>. (<span style="color:#15A600;">7</span>)`,
 };
 const CredMap = {
+    "-8": `President Obama has <i><span style="color: #CE0F0F;">abysmal</i></span> <b>credibility</b>. (<span style="color:#CE0F0F;">-8</span>)`,
+    "-7": `President Obama has <i><span style="color: #CE0F0F;">abysmal</i></span> <b>credibility</b>. (<span style="color:#CE0F0F;">-7</span>)`,
     "-6": `President Obama has <i><span style="color: #CE0F0F;">abysmal</i></span> <b>credibility</b>. (<span style="color:#CE0F0F;">-6</span>)`,
     "-5": `President Obama has <i><span style="color: #CE0F0F;">abysmal</i></span> <b>credibility</b>. (<span style="color:#CE0F0F;">-5</span>)`,
     "-4": `President Obama has <i><span style="color: #CE0F0F;">abysmal</i></span> <b>credibility</b>. (<span style="color:#CE0F0F;">-4</span>)`,
     "-3": `President Obama has <i><span style="color: #CE0F0F;">abysmal</i></span> <b>credibility</b>. (<span style="color:#CE0F0F;">-3</span>)`,
-    "-2": `President Obama has <i><span style="color: #CE0F0F;">abysmal</i></span> <b>credibility</b>. (<span style="color:#CE0F0F;">-2</span>)`,
+    "-2": `President Obama has <i><span style="color: #CE0F0F;">negative</i></span> <b>credibility</b>. (<span style="color:#CE0F0F;">-2</span>)`,
     "-1": `President Obama has <i><span style="color: #CE0F0F;">negative</i></span> <b>credibility</b>. (<span style="color:#CE0F0F;">-1</span>)`,
     "0": `President Obama has <i><span style="color: #CE0F0F;">no</i></span> <b>credibility</b>. (<span style="color:#CE0F0F;">0</span>)`,
     "1": `President Obama has <i><span style="color: #FADC0E;">little</i></span> <b>credibility</b>. (<span style="color:#FADC0E;">1</span>)`,
