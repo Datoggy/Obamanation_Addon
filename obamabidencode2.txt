@@ -36260,10 +36260,6 @@ const ads = [
 		       let index = menuItemsA.findIndex(item => item.id === 'PAUL_B');
                if (index !== -1) {
                    menuItemsA.splice(index, 1);
-               }
-			   
-		       index = menuItemsA.findIndex(item => item.id === 'PAUL_C');
-               if (index == -1) {
                    menuItemsA.unshift(PaulCan);
                }
 		   }
