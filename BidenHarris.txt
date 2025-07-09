@@ -1952,10 +1952,6 @@ if (usa == true) {
   
   cyoAdventure = function(a) {
       e.noCounter += 1;
-	  //DEBUG REMEMBER TO DELETE This
-	  if(e.noCounter == 20){        
-         mcdonough += 5;
-     };
 	  
 	  opponents.newsom = newsom;
 	  opponents.mcdonough = mcdonough;
